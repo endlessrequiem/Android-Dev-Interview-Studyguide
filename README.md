@@ -2,13 +2,13 @@
 This is a general study guide for things you may be asked about in Android Dev interviews. These are based off questions I've been asked over multiple 
 Android Dev job interviews. I also included some basics that you'll need to be familiar with, just in case. Feel free to expand on the list.
 
-1. Java ([https://developer.android.com/studio/write/java8-support](https://developer.android.com/studio/write/java8-support))
+1. Java – ([https://developer.android.com/studio/write/java8-support](https://developer.android.com/studio/write/java8-support))
 
-2. Kotlin ([https://developer.android.com/kotlin](https://developer.android.com/kotlin))
+2. Kotlin – ([https://developer.android.com/kotlin](https://developer.android.com/kotlin))
 
-3. MVVM (ModelView View Model) ([https://developer.android.com/topic/libraries/architecture/viewmodel](https://developer.android.com/topic/libraries/architecture/viewmodel))
+3. MVVM (ModelView View Model) – ([https://developer.android.com/topic/libraries/architecture/viewmodel](https://developer.android.com/topic/libraries/architecture/viewmodel))
 
-4. Jetpack ([https://developer.android.com/jetpack](https://developer.android.com/jetpack))
+4. Jetpack – ([https://developer.android.com/jetpack](https://developer.android.com/jetpack))
 
 5. Notifications – ([https://developer.android.com/guide/topics/ui/notifiers/notifications](https://developer.android.com/guide/topics/ui/notifiers/notifications))
 
