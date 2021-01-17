@@ -12,18 +12,20 @@ Android Dev job interviews. I also included some basics that you'll need to be f
 
 5. Notifications – ([https://developer.android.com/guide/topics/ui/notifiers/notifications](https://developer.android.com/guide/topics/ui/notifiers/notifications))
 
-6. Retrofit – ([https://developer.android.com/codelabs/kotlin-android-training-internet-data#0](https://developer.android.com/codelabs/kotlin-android-training-internet-data#0))
+6. Activity Lifecycle – [https://developer.android.com/guide/components/activities/activity-lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 
-7. Shared Preferences - ([https://developer.android.com/training/data-storage/shared-preferences](https://developer.android.com/training/data-storage/shared-preferences))
+7. Retrofit – ([https://developer.android.com/codelabs/kotlin-android-training-internet-data#0](https://developer.android.com/codelabs/kotlin-android-training-internet-data#0))
 
-8. SQLite - ([https://developer.android.com/training/data-storage/sqlite](https://developer.android.com/training/data-storage/sqlite))
+8. Shared Preferences - ([https://developer.android.com/training/data-storage/shared-preferences](https://developer.android.com/training/data-storage/shared-preferences))
 
-9. Dependency Injection – Dagger, Hilt ([https://developer.android.com/training/dependency-injection](https://developer.android.com/training/dependency-injection))
+9. SQLite - ([https://developer.android.com/training/data-storage/sqlite](https://developer.android.com/training/data-storage/sqlite))
 
-10. Unit Testing – Espresso (UI Tests), Junit (Code Testing) ([https://developer.android.com/training/testing](https://developer.android.com/training/testing))
+10. Dependency Injection – Dagger, Hilt ([https://developer.android.com/training/dependency-injection](https://developer.android.com/training/dependency-injection))
 
-11. Multithreading – ([https://developer.android.com/topic/performance/threads](https://developer.android.com/topic/performance/threads))
+11. Unit Testing – Espresso (UI Tests), Junit (Code Testing) ([https://developer.android.com/training/testing](https://developer.android.com/training/testing))
 
-12. Coroutines in Kotlin - ([https://kotlinlang.org/docs/reference/coroutines-overview.html](https://kotlinlang.org/docs/reference/coroutines-overview.html))
+12. Multithreading – ([https://developer.android.com/topic/performance/threads](https://developer.android.com/topic/performance/threads))
 
-13. RxJava – ([https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava))
+13. Coroutines in Kotlin - ([https://kotlinlang.org/docs/reference/coroutines-overview.html](https://kotlinlang.org/docs/reference/coroutines-overview.html))
+
+14. RxJava – ([https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava))
