@@ -12,7 +12,7 @@ Android Dev job interviews. I also included some basics that you'll need to be f
 
 5. Notifications – ([https://developer.android.com/guide/topics/ui/notifiers/notifications](https://developer.android.com/guide/topics/ui/notifiers/notifications))
 
-6. Activity Lifecycle – [https://developer.android.com/guide/components/activities/activity-lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+6. Activity Lifecycle – ([https://developer.android.com/guide/components/activities/activity-lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle))
 
 7. Retrofit – ([https://developer.android.com/codelabs/kotlin-android-training-internet-data#0](https://developer.android.com/codelabs/kotlin-android-training-internet-data#0))
 
