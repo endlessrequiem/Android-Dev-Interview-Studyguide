@@ -22,7 +22,7 @@ Android Dev job interviews. I also included some basics that you'll need to be f
 
 10. Dependency Injection – Dagger, Hilt ([https://developer.android.com/training/dependency-injection](https://developer.android.com/training/dependency-injection))
 
-11. Unit Testing – Espresso (UI Tests), Junit (Code Testing) ([https://developer.android.com/training/testing](https://developer.android.com/training/testing))
+11. Unit Testing – Espresso (UI Tests), JUnit (Code Testing) ([https://developer.android.com/training/testing](https://developer.android.com/training/testing))
 
 12. Multithreading – ([https://developer.android.com/topic/performance/threads](https://developer.android.com/topic/performance/threads))
 
