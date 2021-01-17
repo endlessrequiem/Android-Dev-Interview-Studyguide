@@ -12,7 +12,7 @@ Android Dev job interviews. I also included some basics that you'll need to be f
 
 5. Notifications – ([https://developer.android.com/guide/topics/ui/notifiers/notifications](https://developer.android.com/guide/topics/ui/notifiers/notifications))
 
-6. REST API –Retrofit ([https://developer.android.com/codelabs/kotlin-android-training-internet-data#0](https://developer.android.com/codelabs/kotlin-android-training-internet-data#0))
+6. Retrofit – ([https://developer.android.com/codelabs/kotlin-android-training-internet-data#0](https://developer.android.com/codelabs/kotlin-android-training-internet-data#0))
 
 7. Shared Preferences - ([https://developer.android.com/training/data-storage/shared-preferences](https://developer.android.com/training/data-storage/shared-preferences))
 
