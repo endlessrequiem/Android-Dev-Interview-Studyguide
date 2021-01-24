@@ -1,7 +1,7 @@
 # Android Developer Interview Studyguide
 This is a general study guide for things you may be asked about in Android Dev interviews. These are based off questions I've been asked over multiple 
 Android Dev job interviews. I also included some basics that you'll need to be familiar with, just in case. Feel free to expand on the list.
-For things that aren't covered below, see the Dev guide:[https://developer.android.com/guide](https://developer.android.com/guide). 
+For things that aren't covered below, see the Dev guide: [https://developer.android.com/guide](https://developer.android.com/guide). 
 
 1. Java – ([https://developer.android.com/studio/write/java8-support](https://developer.android.com/studio/write/java8-support))
 
