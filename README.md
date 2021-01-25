@@ -32,3 +32,5 @@ For things that aren't covered below, see the Dev guide: [https://developer.andr
 14. Coroutines in Kotlin - ([https://kotlinlang.org/docs/reference/coroutines-overview.html](https://kotlinlang.org/docs/reference/coroutines-overview.html))
 
 15. RxJava – ([https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava))
+
+16. Android App Bundle (AAB) - ([https://developer.android.com/guide/app-bundle](https://developer.android.com/guide/app-bundle))
